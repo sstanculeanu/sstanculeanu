@@ -5,7 +5,11 @@
 
 ## 🚀 About Me
 
-**Blockchain Protocol Engineer @ MultiversX** | Golang | 4+ years contributor on **mx-chain-go** — the official implementation of the MultiversX blockchain protocol
+<div align="center"> 
+  
+  Blockchain Protocol Engineer @ MultiversX | Golang
+  
+  4+ years contributor on **mx-chain-go** — the official implementation of the MultiversX blockchain protocol</div>
 
 ## 🔧 What I Do
 
@@ -26,9 +30,7 @@ DevOps:          CI/CD | Release Management | Git | Docker
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sstanculeanu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sstanculeanu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sstanculeanu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sstanculeanu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sstanculeanu&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9)
 
